@@ -178,7 +178,7 @@
         "buttonBackgroundColor": "#2563EB",
         "size": "small",
         "text": "Buy Now",
-        "url": "https://www.usewaypoint.com"
+        "url": "/"
       }
     }
   },
@@ -268,7 +268,7 @@
         "buttonBackgroundColor": "#2563EB",
         "size": "small",
         "text": "Button",
-        "url": "https://www.usewaypoint.com"
+        "url": "/"
       }
     }
   },
@@ -340,7 +340,7 @@
         "buttonBackgroundColor": "#2563EB",
         "size": "small",
         "text": "Button",
-        "url": "https://www.usewaypoint.com"
+        "url": "/"
       }
     }
   }

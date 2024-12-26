@@ -280,7 +280,7 @@ const POST_METRICS_REPORT: TEditorConfiguration = {
         },
       },
       props: {
-        text: 'So excited to now have drag and drop on Waypoint. This builds on top of our new Navigator feature that we shipped earlier this week 🚢.',
+        text: 'So excited to now have drag and drop. This builds on top of our new Navigator feature that we shipped earlier this week 🚢.',
       },
     },
   },
